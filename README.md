@@ -7,9 +7,6 @@ Today, if there is an emergency, you must phone the hospital or the emergency se
 ## Download our APP APK from the following link:
 https://drive.google.com/drive/folders/17Yu9LlO70FmNw1SClEZoNI-g7YsEoDE6?usp=sharing
 
-## Web Link:
-https://janeprakeerth.github.io/dsc_hacks_technyts/
-
 ### Screenshot
 ![](/Screenshots%20Aid%20for%20life/web%20page.png)
 
